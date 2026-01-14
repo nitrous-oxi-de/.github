@@ -1,1 +1,1 @@
-https://nitrous-oxi.de/
+https://nitrous.dvh.sh
